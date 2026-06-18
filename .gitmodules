@@ -1,0 +1,6 @@
+[submodule "servicedesk-frontend"]
+	path = servicedesk-frontend
+	url = https://github.com/IsraelDavid1/servicedesk-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/IsraelDavid1/chamados-api
